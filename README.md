@@ -1,3 +1,5 @@
+![Neodel](https://socialify.git.ci/Neodel/Neodel/image?description=1&descriptionEditable=Robotics%20engineering&language=1&name=1&theme=Auto)
+
 ```yaml
 name: Loïc Kerboriou
 located_in: Montrouge, France
