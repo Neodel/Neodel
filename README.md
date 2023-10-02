@@ -21,8 +21,7 @@ will_learn: ["React", "Vue"]
 hobbies: ["Cyclism", "Motor bike", "Gaming", "IoT"]
 ```
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Neodel](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Neodel&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!---
 Neodel/Neodel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
